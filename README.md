@@ -77,12 +77,15 @@ Observe probabilistic measurement outcomes.
 
 
 2. **install dependency**
+    ```bash
    pip install numpy matplotlib streamlit qiskit
 
 
 3. **run**
+    ```bash
    streamlit run app.py
 
 
 4. **open browser**
+    ```bash
    http://localhost:8501
