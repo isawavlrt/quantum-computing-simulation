@@ -74,3 +74,15 @@ Observe probabilistic measurement outcomes.
    ```bash
    git clone https://github.com/rasidi3112/quantum-computing-simulation.git
    cd quantum-computing-simulation
+
+
+2. **install dependency**
+   pip install numpy matplotlib streamlit qiskit
+
+
+3. **run**
+   streamlit run app.py
+
+
+4. **open browser**
+   http://localhost:8501
