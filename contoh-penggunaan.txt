@@ -1,13 +1,12 @@
-## ⚗️ Eksperimen Quantum: Mini Quantum Lab
+Eksperimen Quantum: Mini Quantum Lab
 
-### 🧪 Eksperimen 1: Superposisi dengan Hadamard
+Eksperimen 1: Superposisi dengan Hadamard
 1. Pilih **1 qubit**  
 2. Aplikasikan **gate Hadamard (H)** pada `Q0`  
 3. Lihat probabilitas **50%-50%** untuk `|0⟩` dan `|1⟩`  
 
----
 
-### 🔗 Eksperimen 2: Entanglement Bell State
+Eksperimen 2: Entanglement Bell State
 1. Pilih **2 qubit**  
 2. Aplikasikan **Hadamard** pada `Q0`  
 3. Aplikasikan **CNOT** dengan control `Q0` dan target `Q1`  
@@ -16,15 +15,11 @@
    (|00⟩ + |11⟩)/√2
    \]
 
----
-
-### 🌙 Eksperimen 3: Phase Manipulation
+Eksperimen 3: Phase Manipulation
 1. Aplikasikan **Hadamard → Pauli-Z → Hadamard** pada **1 qubit**  
 2. Hasilnya setara dengan **Pauli-X!**
 
----
-
-## 🛠️ Pengembangan Lebih Lanjut
+Pengembangan Lebih Lanjut
 Aplikasi ini dapat dikembangkan dengan:
 
 ✨ Rotasi Gate (**Rx, Ry, Rz**) dengan parameter sudut  
@@ -34,18 +29,13 @@ Aplikasi ini dapat dikembangkan dengan:
 ✨ **Export ke Qiskit** untuk running pada real quantum hardware  
 ✨ **Noise Model** untuk simulasi lebih realistis  
 
----
 
-## 📚 Referensi & Resource
+📚 Referensi & Resource
 📖 *Quantum Computing for Computer Scientists*  
 🌐 [Qiskit Documentation](https://qiskit.org/documentation/)  
 🎓 [IBM Quantum Learning](https://quantum-computing.ibm.com/learn)  
 
----
-
-💡 **Tips:**  
+Tips:
 Gunakan aplikasi ini sebagai alat pembelajaran interaktif untuk memahami konsep dasar *quantum computing* sebelum beralih ke framework yang lebih advanced seperti **Qiskit** atau **Cirq**!
 
----
-
-🎉 **Selamat bereksperimen dengan Quantum Computing! ⚛️✨**
+Selamat bereksperimen dengan Quantum Computing! ⚛️✨**
