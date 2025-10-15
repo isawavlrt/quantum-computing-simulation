@@ -127,4 +127,4 @@ streamlit run main.py
 
 <hr>
 
-<h3 align="center">👨‍💻 Created by <a href="https://github.com/rasidi3112" target="_blank">Rasidi</a></h3>
+<h3 align="center">👨‍💻 Created by🫰🫰 <a href="https://github.com/rasidi3112" target="_blank">Rasidi</a></h3>
