@@ -1,4 +1,4 @@
-<h1 align="center">⚛️ Mini Quantum Lab — Streamlit Quantum Simulator</h1>
+<h1 align="center">Mini Quantum Lab — Streamlit Quantum Simulator</h1>
 
 <p align="center">
   <b>A lightweight interactive Quantum Computing Simulation Lab</b> built with Python, Streamlit, and NumPy.<br>
